@@ -26,8 +26,9 @@ Treasurer:
     email: sn587@cam.ac.uk
 
 Webmaster:
-  - name: "Sophie Machin"
+  - name: "Sophie May"
     email: sem86@cam.ac.uk
+    image_path: assets/images/headshots/sophie.png
   - name: "Mani Ipchi"
     email: mi377@cam.ac.uk
     image_path: assets/images/headshots/mani.jpg
@@ -42,12 +43,12 @@ Social Media Officer:
   - name: "Ada Adamczyk"
     email: ama203@cam.ac.uk
 
-
-
 Male Welfare Officer:
-  - name: "Oguzhan Yuksel"
+  - name: "Oğuzhan Yüksel"
+    image_path: assets/images/headshots/Oğuzhan.png
     email: aoy21@cam.ac.uk
-    
+    instagram: "https://www.instagram.com/oguzhan021/"
+
 Female & Non-Binary Welfare Officer:
   - name: "Emma Onah"
     email: eo364@cam.ac.uk
