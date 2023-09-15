@@ -26,8 +26,9 @@ Treasurer:
     email: sn587@cam.ac.uk
 
 Webmaster:
-  - name: "Sophie Machin"
+  - name: "Sophie May"
     email: sem86@cam.ac.uk
+    image_path: assets/images/headshots/sophie.png
   - name: "Mani Ipchi"
     email: mi377@cam.ac.uk
     image_path: assets/images/headshots/mani.jpg
