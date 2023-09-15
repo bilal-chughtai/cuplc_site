@@ -42,10 +42,9 @@ Social Media Officer:
   - name: "Ada Adamczyk"
     email: ama203@cam.ac.uk
 
-
-
 Male Welfare Officer:
-  - name: "Oguzhan Yuksel"
+  - name: "Oğuzhan Yüksel"
+    image_path: assets/images/headshots/Oğuzhan.png
     email: aoy21@cam.ac.uk
     
 Female & Non-Binary Welfare Officer:
