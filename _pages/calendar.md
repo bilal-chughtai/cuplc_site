@@ -9,4 +9,4 @@ header:
   caption: "Varsity 2020"
 --- 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23a3c1ad&ctz=Europe%2FLondon&title=CUPLC%20Calendar&showNav=0&showPrint=0&showCalendars=0&hl=en_GB&mode=MONTH&src=Y2FtdW5pcG93ZXJsaWZ0aW5nQGdtYWlsLmNvbQ&color=%23039BE5" style="border-width:0; margin: auto; display: block" width="900" height="600" frameborder="0" scrolling="no" align = 'center'></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23a3c1ad&ctz=Europe%2FLondon&title=CUPLC%20Calendar&showNav=0&showPrint=0&showCalendars=0&hl=en_GB&mode=MONTH&src=Y2FtdW5pcG93ZXJsaWZ0aW5nQGdtYWlsLmNvbQ&color=%23039BE5" style="border-width:0; margin: auto; display: block" width="80%" height="500" frameborder="0" scrolling="no"></iframe>
