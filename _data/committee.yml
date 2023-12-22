@@ -56,3 +56,7 @@ Female & Non-Binary Welfare Officer:
 Social Secretary:
   - name: "Arthur Pilkington"
     email: ap2338@cam.ac.uk
+  - name: "Larabella Myers"
+    image_path: assets/images/headshots/larabella.png
+    email: Llvm3@cam.ac.uk
+    instagram: "https://www.instagram.com/larabellamyers/"
