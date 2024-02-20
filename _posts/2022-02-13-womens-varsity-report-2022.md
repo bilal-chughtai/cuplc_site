@@ -1,6 +1,6 @@
 ---
 title: "Women's Varsity Report 2022"
-date: 2022-2-13
+date: 2022-02-13
 author: Beatrice Fishwick
 tags:
   - Meets
@@ -27,7 +27,7 @@ gallery:
   - image_path: /assets/images/varsity_2022/female/12.jpg
 ---
 
-# Womenn's Varsity Win for CUPLC in 2022
+# Women's Varsity Win for CUPLC in 2022
 
 ### Cambridge 581.38 - Oxford 579.78 [Results](https://www.openpowerlifting.org/m/epa/2211){: .btn .btn--primary .btn--large .align-right}
 
