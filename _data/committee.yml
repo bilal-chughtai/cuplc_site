@@ -24,6 +24,7 @@ Secretary:
 Treasurer:
   - name: "Shubang Nagalotimath"
     email: sn587@cam.ac.uk
+    image_path: assets/images/headshots/shubang.jpg
 
 Webmaster:
   - name: "Sophie May"
