@@ -31,7 +31,7 @@ Membership offers access to the following perks:
 
 1. Weekly team training sessions (including SBD clinics)
 2. Access to our powerlifting barbells in the University Sports Centre
-3. In house competitions, including our Novice Competition and Varsity Trials in Michaelemas and intercollegiate Cuppers in Summer
+3. In house competitions, including our Novice Competition and Varsity Trials in Michaelmas and intercollegiate Cuppers in Summer
 4. Opportunities to compete for the University at Varsity and BUCS
 5. Discounted physiotherapy
 7. Access to our private Facebook and WhatsApp groups
