@@ -9,27 +9,54 @@ header:
 
 
 ---
-{% include video id="fTGfiErl7Og" provider="youtube" %} 
 
-Want to be part of the **strongest** club in Cambridge?  Look no further. Membership offers access to the following perks:
+Want to be part of the **strongest** club in Cambridge?  Look no further.
+
+## Join us
+
+Come join us for an afternoon taster session in Michaelmas where we introduce the three lifts and let you have a go.
+
+[Come to a Taster Session](https://forms.gle/8KTx3DKfp6C7xsGC9){: .btn .btn--primary .btn--large .align-center}
+
+Love powerlifting? Sign up for membership!
+
+[Sign Up for Membership](https://forms.gle/nwCX9X2jzz9dMpfGA){: .btn .btn--primary .btn--large .align-center}
+
+Alternatively, feel free to come and chat to us at the University Sports Centre gym. There's usually a good group of us training there most evenings - we should be hard to miss! 
+
+
+## Benefits
+
+Membership offers access to the following perks:
 
 1. Weekly team training sessions (including SBD clinics)
-2. Access to our powerlifting bars in the University Sports Centre
-3. In house competitions, including our Novice Competition and Varsity Trials in Michalemas and intercollegiate Cuppers in Summer
+2. Access to our powerlifting barbells in the University Sports Centre
+3. In house competitions, including our Novice Competition and Varsity Trials in Michaelemas and intercollegiate Cuppers in Summer
 4. Opportunities to compete for the University at Varsity and BUCS
 5. Discounted physiotherapy
 7. Access to our private Facebook and WhatsApp groups
 8. Frequent socials
 9. Stash 
 
-To clarify, CUPLC membership does not include access to the University Sports Centre gym where a lot of us train together throughout the week. This is a separate gym membership. You however don't need to have a University Sports Centre membership to come to the weekly Team Training sessions as they are paid for by CUPLC. 
 
-We fully understand that you may want to try powerlifting out and get a feel for what the club is like and has to offer before fully committing to buying a membership. If it's the start of the year, sign up to our freshers mailing list and come to our introductory sessions. If not, we would love to be able to allow you to try out a session. As almost all of these are for paying members, we can't take away slots from them if at capacity, but please do fill in this form and we will try our best to accomodate you! 
+## Events for 2024-25
 
-[Come to a Taster Session](https://forms.gle/8KTx3DKfp6C7xsGC9){: .btn .btn--primary .btn--large .align-center}
+| Event             | Date     | Location                      |
+|-------------------|----------|-------------------------------|
+| Freshers Fair     | October  | University Sports Centre Hall |
+| TTR intro session | October  | University Sports Centre TTR  |
+| Novice Comp       | November | University Sports Centre TTR  |
+| Varsity trials    | December | TBC                           |
+| Christmas Dinner  | December | TBC                           |
+| Varsity Match     | March    | Oxford                        |
+| BUCS              | April    | TBC                           |
 
-Alternatively, feel free to come and chat to us at the University Sports Centre gym. There's usually a good group of us training there most evenings - we should be hard to miss! 
 
-[Sign Up for Membership here](https://forms.gle/nwCX9X2jzz9dMpfGA){: .btn .btn--primary .btn--large .align-center}
+## Gym membership
+
+Team training room sessions (TTR sessions) are funded by CUPLC and you don't need a gym membership to attend these. 
+
+CUPLC membership unfortunately does not include access to the University Sports Centre gym where a lot of us train together throughout the week. This is a separate gym membership.
+
 
 Any questions regarding club membership should be directed towards the [club secretary](mailto:cc2080@cam.ac.uk).
