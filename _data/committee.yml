@@ -1,63 +1,42 @@
 President:
+  - name: "Shubang Nagalotimath"
+    email: sn587@cam.ac.uk
+    image_path: assets/images/headshots/shubang.jpg
+
+Men's Captain:
   - name: "Santosh Guru"
     image_path: assets/images/headshots/santosh.jpg
     email: sg928@cam.ac.uk
     instagram: "https://www.instagram.com/santoshlifts/"
 
-Men's Captain:
-  - name: "Brandon Teh"
-    image_path: assets/images/headshots/brandon.jpg
-    # bio: "Raghul started powerlifting in ...."
-    email: bjht3@cam.ac.uk
-    instagram: https://www.instagram.com/teh_bran/
-
 Women's Captain:
-  - name: "Rachel Knight"
-    email: rck34@cam.ac.uk
-    image_path: assets/images/headshots/rachel.jpg
-
-Secretary:
-  - name: "Charlie Cambridge"
-    email: cc2080@cam.ac.uk
-    image_path: assets/images/headshots/charlie.jpg
-
-Treasurer:
-  - name: "Shubang Nagalotimath"
-    email: sn587@cam.ac.uk
-    image_path: assets/images/headshots/shubang.jpg
-
-Webmaster:
-  - name: "Sophie May"
-    email: sem86@cam.ac.uk
-    image_path: assets/images/headshots/sophie.png
-  - name: "Mani Ipchi"
-    email: mi377@cam.ac.uk
-    image_path: assets/images/headshots/mani.jpg
-
-Stash Officer:
-  - name: "Jane Ambler"
-    image_path: assets/images/headshots/jane.jpg
-    email: jpa50@cam.ac.uk
-    instagram: "https://www.instagram.com/janesgains/"
-
-Social Media Officer:
   - name: "Ada Adamczyk"
     email: ama203@cam.ac.uk
 
+Secretary:
+  - name: "Isaac Wong"
+
+Treasurer:
+  - name: "Aleksandar Radic"
+
+Webmaster:
+  - name: "Sophie May"
+    image_path: assets/images/headshots/sophie.png
+
+Stash Officer:
+  - name:
+
+Social Media Officer:
+  - name:
+
 Male Welfare Officer:
-  - name: "Oğuzhan Yüksel"
-    image_path: assets/images/headshots/Oğuzhan.png
-    email: aoy21@cam.ac.uk
-    instagram: "https://www.instagram.com/oguzhan021/"
+  - name: "Etinosa Ojike Ederaro"
 
 Female & Non-Binary Welfare Officer:
-  - name: "Emma Onah"
-    email: eo364@cam.ac.uk
+  - name: "Liz Stevenson"
 
 Social Secretary:
-  - name: "Arthur Pilkington"
-    email: ap2338@cam.ac.uk
-  - name: "Larabella Myers"
-    image_path: assets/images/headshots/larabella.png
-    email: Llvm3@cam.ac.uk
-    instagram: "https://www.instagram.com/larabellamyers/"
+  - name: "Sneha Kumar"
+
+Health and Safety:
+  - name: "Gratsiela Kostova"
