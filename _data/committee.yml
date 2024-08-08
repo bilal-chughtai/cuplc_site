@@ -25,7 +25,7 @@ Webmaster:
   - name: "Sophie May"
     image_path: assets/images/headshots/sophie.png
 
-Stash Officer:
+Stash Officer and Female & Non-Binary Welfare Officer:
   - name: "Liz Stevenson"
     image_path: assets/images/headshots/liz.jpeg
     email: efs29@cam.ac.uk
@@ -35,9 +35,6 @@ Social Media Officer:
 
 Male Welfare Officer:
   - name: "Etinosa Ojike Ederaro"
-
-Female & Non-Binary Welfare Officer:
-  - name: "Liz Stevenson"
 
 Social Secretary:
   - name: "Sneha Kumar"
