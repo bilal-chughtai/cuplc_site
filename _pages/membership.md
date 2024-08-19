@@ -16,11 +16,11 @@ Want to be part of the **strongest** club in Cambridge?  Look no further.
 
 Come join us for an afternoon taster session in Michaelmas where we introduce the three lifts and let you have a go.
 
-[Come to a Taster Session](https://forms.gle/8KTx3DKfp6C7xsGC9){: .btn .btn--primary .btn--large .align-center}
+[Come to a Taster Session](https://forms.gle/U1ArHoUtvYjfZnuB7){: .btn .btn--primary .btn--large .align-center}
 
 Love powerlifting? Sign up for membership!
 
-[Sign Up for Membership](https://forms.gle/nwCX9X2jzz9dMpfGA){: .btn .btn--primary .btn--large .align-center}
+[Sign Up for Membership](https://forms.gle/U1ArHoUtvYjfZnuB7){: .btn .btn--primary .btn--large .align-center}
 
 Alternatively, feel free to come and chat to us at the University Sports Centre gym. There's usually a good group of us training there most evenings - we should be hard to miss! 
 
@@ -59,4 +59,4 @@ Team training room sessions (TTR sessions) are funded by CUPLC and you don't nee
 CUPLC membership unfortunately does not include access to the University Sports Centre gym where a lot of us train together throughout the week. This is a separate gym membership.
 
 
-Any questions regarding club membership should be directed towards the [club secretary](mailto:cc2080@cam.ac.uk).
+Any questions regarding club membership should be directed towards the [club secretary](mailto:iw327@cam.ac.uk).
