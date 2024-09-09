@@ -61,7 +61,7 @@ header:
 Documents governing how the club is run may be found below.
 {% assign doc_path = site.url | append: site.baseurl | append: "/assets/docs" %}
 <div class="grid-container_committee">
-  <div class="grid-item_committee"><a href="{{ doc_path }}/CU Powerlifting Club Constitution 2022-23.pdf" class="btn btn--primary btn--block btn--large">Constitution</a></div>
+  <div class="grid-item_committee"><a href="{{ doc_path }}/CU Powerlifting Club Constitution 2024-25.pdf" class="btn btn--primary btn--block btn--large">Constitution</a></div>
   <div class="grid-item_committee"><a href="{{ doc_path }}/CU Powerlifting Club Code of Conduct 2022-23.pdf" class="btn btn--primary btn--block btn--large">Code of Conduct</a></div>
   <div class="grid-item_committee"><a href="{{ doc_path }}/CU Powerlifting Club Safety Statement 2021-22.pdf" class="btn btn--primary btn--block btn--large">Safety Statement</a></div>
   <div class="grid-item_committee"><a href="{{ doc_path }}/CU Powerlifting Club Welfare Policy 2021-22.pdf" class="btn btn--primary btn--block btn--large">Welfare Policy</a></div>
