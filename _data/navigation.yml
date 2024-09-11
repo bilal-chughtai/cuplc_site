@@ -6,11 +6,9 @@ main:
     url: /committee/
   - title: "Calendar"
     url: /calendar/
-  - title: "Competitions"
+  - title: "Competing"
     url: /competitions/
   - title: "Records"
     url: /records/
   - title: "Resources"
     url: /resources/
-  - title: 'About'
-    url: /about/
