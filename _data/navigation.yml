@@ -10,5 +10,7 @@ main:
     url: /competitions/
   - title: "Records"
     url: /records/
+  - title: "Merch"
+    url: /merchandise/
   - title: "Resources"
     url: /resources/
