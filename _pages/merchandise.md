@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/varsity_trials_2023.png
-  caption: "Varsity 2020"
+  caption: "Varsity trials 2023"
   height: 2000px
 ---
 
