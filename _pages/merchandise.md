@@ -10,11 +10,24 @@ header:
   height: 2000px
 ---
 
-## Kukri page
+### Kukri
 We have a kit page on Kukri, order it here:
 
 [Kukri kit page](https://www.kukrisports.co.uk/teamshop/cambridgeuniversitypowerlifting/productNavListNg.action){: .btn .btn--primary .btn--large}
 
-## Bulk orders
+
+### A7
+
+Coming soon
+
+
+### Saxon
+
+Coming soon
+
+
+### Bulk orders
 
 We will be putting in a bulk order during Michaelmas term which will get you a discount on shoes and IPF approved kit like belts and knee sleeves.
+
+Keep an eye out for the email. 
