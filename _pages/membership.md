@@ -34,22 +34,23 @@ Membership offers access to the following perks:
 3. In house competitions, including our Novice Competition and Varsity Trials in Michaelmas and intercollegiate Cuppers in Summer
 4. Opportunities to compete for the University at Varsity and BUCS
 5. Discounted physiotherapy
-7. Access to our private Facebook and WhatsApp groups
-8. Frequent socials
-9. Stash 
+6. Access to our private Facebook and WhatsApp groups
+7. Frequent socials
+8. Stash 
 
 
 ## Events for 2024-25
 
-| Event             | Date     | Location                      |
-|-------------------|----------|-------------------------------|
-| Freshers Fair     | October  | University Sports Centre Hall |
-| TTR intro session | October  | University Sports Centre TTR  |
-| Novice Comp       | November | University Sports Centre TTR  |
-| Varsity trials    | December | TBC                           |
-| Christmas Dinner  | December | TBC                           |
-| Varsity Match     | March    | Oxford                        |
-| BUCS              | April    | TBC                           |
+| Event             | Date          | Time   | Location                              |
+|-------------------|---------------|--------|---------------------------------------|
+| Sports Fair       | 7 October     | 12 - 5 | University Sports Centre Hall and TTR | 
+| Freshers Fair     | 8 & 9 October | 10 - 4 | Parkers Piece                         |
+| TTR intro session | October       |        | University Sports Centre TTR          |
+| Novice Comp       | November      |        | University Sports Centre TTR          |
+| Varsity trials    | 7 December    |        | University Sports Centre TTR          |
+| Christmas Dinner  | December      |        | TBC                                   |
+| Varsity Match     | March         |        | Oxford                                |
+| BUCS              | April         |        | TBC                                   |
 
 
 ## Gym membership
