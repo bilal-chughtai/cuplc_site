@@ -10,18 +10,17 @@ header:
   height: 2000px
 ---
 
-### Kukri
-We have a kit page on Kukri, order it here:
+
+### Kit pages
+
+Our incredible stash officer Liz has prepared some goodies for you. Feast your eyes on this lot.
 
 [Kukri kit page](https://www.kukrisports.co.uk/teamshop/cambridgeuniversitypowerlifting/productNavListNg.action){: .btn .btn--primary .btn--large}
 
+[Saxon kit page](https://saxonclothing.com/collections/cambridge-university-powerlifting-club){: .btn .btn--primary .btn--large}
+
 
 ### A7
-
-Coming soon
-
-
-### Saxon
 
 Coming soon
 
