@@ -30,3 +30,6 @@ _site
 
 # vscode
 .vscode
+
+#pycharm
+.idea
