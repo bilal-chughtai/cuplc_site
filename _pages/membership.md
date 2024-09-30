@@ -20,7 +20,7 @@ Come join us for an afternoon taster session in Michaelmas where we introduce th
 
 Love powerlifting? Sign up for membership!
 
-[Sign Up for Membership](https://forms.gle/U1ArHoUtvYjfZnuB7){: .btn .btn--primary .btn--large .align-center}
+[Sign Up for Membership](https://forms.gle/ueaZEurL2PnjKn8B8){: .btn .btn--primary .btn--large .align-center}
 
 Alternatively, feel free to come and chat to us at the University Sports Centre gym. There's usually a good group of us training there most evenings - we should be hard to miss! 
 
