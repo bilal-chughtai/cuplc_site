@@ -41,16 +41,16 @@ Membership offers access to the following perks:
 
 ## Events for 2024-25
 
-| Event             | Date          | Time   | Location                              |
-|-------------------|---------------|--------|---------------------------------------|
-| Sports Fair       | 7 October     | 12 - 5 | University Sports Centre Hall and TTR | 
-| Freshers Fair     | 8 & 9 October | 10 - 4 | Parkers Piece                         |
-| TTR intro session | October       |        | University Sports Centre TTR          |
-| Novice Comp       | November      |        | University Sports Centre TTR          |
-| Varsity trials    | 7 December    |        | University Sports Centre TTR          |
-| Christmas Dinner  | December      |        | TBC                                   |
-| Varsity Match     | March         |        | Oxford                                |
-| BUCS              | April         |        | TBC                                   |
+| Event             | Date          | Time    | Location                              |
+|-------------------|---------------|---------|---------------------------------------|
+| Sports Fair       | 7 October     | 12 - 5  | University Sports Centre Hall and TTR | 
+| Freshers Fair     | 8 & 9 October | 10 - 4  | Parkers Piece                         |
+| TTR intro session | 12 October    |         | University Sports Centre TTR          |
+| Novice Comp       | 9 November    | 12      | University Sports Centre TTR          |
+| Varsity trials    | 7 December    | 8 or 12 | University Sports Centre TTR          |
+| Christmas Dinner  | December      |         | TBC                                   |
+| Varsity Match     | March         |         | Oxford                                |
+| BUCS              | 24-27 April   |         | TBC                                   |
 
 
 ## Gym membership
