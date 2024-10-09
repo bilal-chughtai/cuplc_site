@@ -23,7 +23,7 @@ Treasurer:
 
 Webmaster:
   - name: "Sophie May"
-    image_path: assets/images/headshots/sophie.png
+    image_path: assets/images/headshots/sophie.jpg
 
 Stash Officer and Female & Non-Binary Welfare Officer:
   - name: "Liz Stevenson"
@@ -35,6 +35,7 @@ Social Media Officer:
 
 Male Welfare Officer:
   - name: "Etinosa Ojike Ederaro"
+    image_path: assets/images/headshots/Eti.jpeg
 
 Social Secretary:
   - name: "Sneha Kumar"
