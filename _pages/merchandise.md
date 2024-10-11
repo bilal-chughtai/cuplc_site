@@ -19,6 +19,9 @@ Our incredible stash officer Liz has prepared some goodies for you. Feast your e
 
 [Saxon kit page](https://saxonclothing.com/collections/cambridge-university-powerlifting-club){: .btn .btn--primary .btn--large}
 
+[Canterbury kit page](https://www.cambridge-university-sports.co.uk/Catalogue/Sports-Clubs){: .btn .btn--primary .btn--large}
+
+The password for the Canterbury site is `cambridgeuni`
 
 ### A7
 
