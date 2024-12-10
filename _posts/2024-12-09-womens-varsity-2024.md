@@ -1,7 +1,7 @@
 ---
 title: "2024 Women’s Varsity Match Report"
 date: 2024-12-09
-author: Brandon Teh
+author: Rachel Knight
 tags:
   - Meets
   - Varsity
