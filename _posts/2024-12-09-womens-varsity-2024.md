@@ -16,7 +16,9 @@ header:
 
 
 ---
-___
+
+The women's varsity squad showcased their dedication and tenacity, remaining undefeated in the face of a formidable
+Oxford women's team.
 
 2024 marked the third Oxford vs Cambridge Women’s Powerlifting Varsity Match. After two years undefeated, sometimes by
 the most miniscule of margins, the new women’s team were keen to continue the legacy of those set before us. To heighten
