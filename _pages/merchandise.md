@@ -19,6 +19,8 @@ Our incredible stash officer Liz has prepared some goodies for you. Feast your e
 
 [Saxon kit page](https://saxonclothing.com/collections/cambridge-university-powerlifting-club){: .btn .btn--primary .btn--large}
 
+The password for the Saxon site is `SAXON`
+
 [Canterbury kit page](https://www.cambridge-university-sports.co.uk/Catalogue/Sports-Clubs){: .btn .btn--primary .btn--large}
 
 The password for the Canterbury site is `cambridgeuni`
@@ -30,6 +32,11 @@ Coming soon
 
 ### Bulk orders
 
-We will be putting in a bulk order during Michaelmas term which will get you a discount on shoes and IPF approved kit like belts and knee sleeves.
+We will be putting in a bulk orders which will get you a discount on shoes and IPF approved kit like belts and knee sleeves.
 
-Keep an eye out for the email. 
+Keep an eye out for the email, or occasional orders in the group chat.
+
+
+### Blues kit
+
+Blues fleeces are limited to blues athletes only. Please be good and only order if you are eligible.
