@@ -32,7 +32,7 @@ Coming soon
 
 ### Bulk orders
 
-We will be putting in a bulk orders which will get you a discount on shoes and IPF approved kit like belts and knee sleeves.
+We will be putting in bulk orders which will get you a discount on shoes and IPF approved kit like belts and knee sleeves.
 
 Keep an eye out for the email, or occasional orders in the group chat.
 
