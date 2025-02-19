@@ -69,9 +69,8 @@ For the 2023-2024 academic year, the standards in kg are therefore as follows:
 
 | Weight Class | Full Blue | Half Blue |
 |--------------|-----------|-----------|
-| -43          | 227.5     | 227.5     |
 | -47          | 262.5     | 262.5     |
-| -52          | 346.6     | 302.5     |
+| -52          | 346.5     | 302.5     |
 | -57          | 350       | 325       |
 | -63          | 387.5     | 342.5     |
 | -69          | 400       | 360       |
