@@ -84,3 +84,7 @@ Masters Athlete:
   name        : "Masters Athlete"
   bio         : "90% ibuprofen 10% caffeine"
 
+Sophie May:
+  name        : "Sophie May"
+  bio         : "Webmaster"
+  avatar      : "/assets/images/headshots/sophie.jpg"
