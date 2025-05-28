@@ -20,7 +20,14 @@ Entries opening soon for our June novice comp. Have a go at testing your strengt
 
 ## Sign up
 
-Sign up form coming soon
+Get in touch and we'll send you a link to the sign up form:
+
+[Get in touch](https://cuplc.co.uk/#get-in-touch)
+
+## Cost
+
+Free
+
 
 ## How it works
 
