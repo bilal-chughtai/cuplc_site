@@ -16,7 +16,7 @@ header:
 
 ---
 
-Entries opening soon for our June novice comp. Have a go at testing your strength in the squat, bench and deadlift in a super fun and supportive environment.
+Entries are now open for our June novice comp. Have a go at testing your strength in the squat, bench and deadlift in a super fun and supportive environment.
 
 ## Sign up
 
