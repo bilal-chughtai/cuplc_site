@@ -46,21 +46,23 @@ TTR (team training room) at the University Sports Centre, Cambridge. Post code i
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3080.3275941236157!2d0.0867391083547615!3d52.20963494791632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8774861d9ffdf%3A0xb73d0c1fc075bba2!2sSports%20Centre%20and%20Gym%2C%20University%20of%20Cambridge!5e0!3m2!1sen!2suk!4v1747913439056!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Example timetable
+## Timetable
 
-At the moment this is just an example to give you an idea of timings
+Provisional timings are
 
-| Time  | Activity                 |
-|-------|--------------------------|
-| 11:45 | Weigh in                 |
-| 13:00 | Choose rack heights      |
-| 13:45 | Group A squats           |
-| 14:15 | Group B squats           |
-| 14:45 | Group A bench            |
-| 15:15 | Group B bench            |
-| 15:45 | Group A deadlifts        |
-| 16:15 | Group B deadlifts        |
-| 17:00 | Clean up and group photo |
+| Time  | Activity                         |
+|-------|----------------------------------|
+| 12:00 | Arrival                          |
+| 12:15 | Weigh in                         |
+| 13:00 | Choose rack heights              |
+| 13:45 | Start warmups                    |
+| 14:30 | Group A squats                   |
+| 15:00 | Group B squats                   |
+| 15:30 | Group A bench                    |
+| 16:00 | Group B bench                    |
+| 16:30 | Group A deadlifts                |
+| 17:00 | Group B deadlifts                |
+| 17:30 | Awards, clean up and group photo |
 
 
 ## What to wear
