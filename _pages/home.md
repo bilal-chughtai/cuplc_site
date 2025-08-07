@@ -5,18 +5,6 @@ permalink: /
 date: 2022-02-28
 excerpt: "CUPLC exists for two reasons. We seek to be a community of people sharing a love of lifting. Our members comprise experienced international powerlifters holding national records to novice lifters just starting out on their strength journeys. We encourage and facilitate members competing in the sport of powerlifting wherever possible, including against Oxford at our annual Varsity match."
 
-novice_comp:
-  - image_path: /assets/images/varsity_2024/male/Varsity_2024_faze.JPG
-    title: "Novice comp"
-    excerpt: "It's time for another CUPLC Novice competition!
-    Comps are super chill and give you a taste of competitive powerlifting.
-    We'll give you three attempts to max out your squat, bench and deadlift.
-    Everyone is welcome: the minimum strength standards are 25kg in each lift.\n\n\n
-    The comp is on the 20th of June, read more below"
-    url: "/posts/novice-comp-june-2025"
-    btn_label: "Read more"
-    btn_class: "btn--primary"
-
 freshers:
   - image_path: /assets/images/logos/lion_with_text.png
     title: "Join CUPLC this Academic Year"
