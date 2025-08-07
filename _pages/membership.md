@@ -30,28 +30,30 @@ Alternatively, feel free to come and chat to us at the University Sports Centre 
 Membership offers access to the following perks:
 
 1. Weekly team training sessions (including SBD clinics)
-2. Access to our powerlifting barbells in the University Sports Centre
-3. In house competitions, including our Novice Competition and Varsity Trials in Michaelmas and intercollegiate Cuppers in Summer
-4. Opportunities to compete for the University at Varsity and BUCS
-5. Discounted physiotherapy
-6. Access to our private Facebook and WhatsApp groups
-7. Frequent socials
-8. Stash 
+2. Development squads for new and experienced lifters
+3. Access to our powerlifting barbells in the University Sports Centre 
+4. In house competitions, including our Novice Competition and Varsity Trials in Michaelmas 
+5. Opportunities to compete for the University at Varsity and BUCS
+6. Discounted physiotherapy
+7. Access to our private WhatsApp groups
+8. Frequent socials
+9. Stash 
 
 
-## Events for 2024-25
+## Events for 2025-26
 
-| Event                       | Date          | Time    | Location                              |
-|-----------------------------|---------------|---------|---------------------------------------|
-| Sports Fair                 | 7 October     | 12 - 5  | University Sports Centre Hall and TTR | 
-| Freshers Fair               | 8 & 9 October | 10 - 4  | Parkers Piece                         |
-| Women and non-binary taster | 12 October    | 4 - 6   | University Sports Centre TTR          |
-| Open taster                 | 13 October    | 2 - 4   | University Sports Centre TTR          |
-| Novice Comp                 | 9 November    | 12      | University Sports Centre TTR          |
-| Varsity trials              | 7 December    | 8 or 12 | University Sports Centre TTR          |
-| Christmas Dinner            | December      |         | TBC                                   |
-| Varsity Match               | March         |         | Oxford                                |
-| BUCS                        | 24-27 April   |         | TBC                                   |
+| Event          | Date          | Time   | Location                              |
+|----------------|---------------|--------|---------------------------------------|
+| Sports Fair    | 6 October     | 12 - 5 | University Sports Centre Hall and TTR | 
+| Freshers Fair  | 7 & 8 October | 10 - 4 | Parkers Piece                         |
+| Varsity Trials | 6 December    | 8 - 5  | University Sports Centre TTR          |
+| Varsity Match  | 7 February    | 8 - 5  | University Sports Centre Hall         |
+
+<!--| BUCS                        | 24-27 April   |         | TBC                                   |-->
+<!--| Christmas Dinner            | December      |         | TBC                                   |-->
+<!--| Women and non-binary taster | 12 October    | 4 - 6   | University Sports Centre TTR          |-->
+<!--| Open taster                 | 13 October    | 2 - 4   | University Sports Centre TTR          |-->
+<!--| Novice Comp                 | 9 November    | 12      | University Sports Centre TTR          |-->
 
 
 ## Gym membership
