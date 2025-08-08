@@ -5,42 +5,43 @@ President:
     instagram: "https://www.instagram.com/Shubang.Naga/"
 
 Men's Captain:
-  - name: "Santosh Guru"
-    image_path: assets/images/headshots/santosh.jpg
-    email: sg928@cam.ac.uk
-    instagram: "https://www.instagram.com/santoshlifts/"
-
-Women's Captain:
-  - name: "Ada Adamczyk"
-    image_path: assets/images/headshots/ada.jpeg
-    email: ama203@cam.ac.uk
-
-Secretary:
   - name: "Isaac Wong"
 
+Women's Captain:
+  - name: "Jenny Lin"
+    image_path: assets/images/headshots/jenny.jpg
+
+Secretary:
+  - name: "Emma Cohen"
+
 Treasurer:
-  - name: "Aleksandar Radic"
-    image_path: assets/images/headshots/alek.jpeg
+  - name: "Sammy Breingan"
 
 Webmaster:
   - name: "Sophie May"
     image_path: assets/images/headshots/sophie.jpg
 
-Stash Officer and Female & Non-Binary Welfare Officer:
+Stash Officer:
+  - name: "Viola Clark"
+
+Social Media Secretary:
+  - name: "Rozana Mazlumian"
+
+Women’s and NB Welfare:
   - name: "Liz Stevenson"
     image_path: assets/images/headshots/liz.jpeg
     email: efs29@cam.ac.uk
 
-Social Media Officer:
-  - name: Yuvraj Agarwal
-
 Male Welfare Officer:
-  - name: "Etinosa Ojike Ederaro"
-    image_path: assets/images/headshots/Eti.jpeg
+  - name: "Nikita Mozgunov"
+    image_path: assets/images/headshots/nikita.jpg
+    email: mozgunov.n@gmail.com
+    instagram: "https://www.instagram.com/nikotinz"
 
 Social Secretary:
-  - name: "Sneha Kumar"
-    image_path: assets/images/headshots/sneha.jpeg
+  - name: "Felipe Western"
+    image_path: assets/images/headshots/filipe.jpg
 
-Health and Safety:
-  - name: "Gratsiela Kostova"
+Assistant Social Secretary:
+  - name: "Craig Lobo"
+    image_path: assets/images/headshots/craig.jpg

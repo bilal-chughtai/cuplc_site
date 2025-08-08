@@ -1,3 +1,52 @@
+2024-2025:
+  President:
+    - name: "Shubang Nagalotimath"
+      email: sn587@cam.ac.uk
+      image_path: assets/images/headshots/shubang_24.jpeg
+      instagram: "https://www.instagram.com/Shubang.Naga/"
+
+  Men's Captain:
+    - name: "Santosh Guru"
+      image_path: assets/images/headshots/santosh.jpg
+      email: sg928@cam.ac.uk
+      instagram: "https://www.instagram.com/santoshlifts/"
+
+  Women's Captain:
+    - name: "Ada Adamczyk"
+      image_path: assets/images/headshots/ada.jpeg
+      email: ama203@cam.ac.uk
+
+  Secretary:
+    - name: "Isaac Wong"
+
+  Treasurer:
+    - name: "Aleksandar Radic"
+      image_path: assets/images/headshots/alek.jpeg
+
+  Webmaster:
+    - name: "Sophie May"
+      image_path: assets/images/headshots/sophie.jpg
+
+  Stash Officer and Female & Non-Binary Welfare Officer:
+    - name: "Liz Stevenson"
+      image_path: assets/images/headshots/liz.jpeg
+      email: efs29@cam.ac.uk
+
+  Social Media Officer:
+    - name: Yuvraj Agarwal
+
+  Male Welfare Officer:
+    - name: "Etinosa Ojike Ederaro"
+      image_path: assets/images/headshots/Eti.jpeg
+
+  Social Secretary:
+    - name: "Sneha Kumar"
+      image_path: assets/images/headshots/sneha.jpeg
+
+  Health and Safety:
+    - name: "Gratsiela Kostova"
+
+
 2023-2024:
   President:
     - name: "Santosh Guru"
