@@ -16,7 +16,7 @@ Want to be part of the **strongest** club in Cambridge?  Look no further.
 
 Come join us for an afternoon taster session in Michaelmas where we introduce the three lifts and let you have a go.
 
-[Come to a Taster Session](https://forms.gle/U1ArHoUtvYjfZnuB7){: .btn .btn--primary .btn--large .align-center}
+[Come to a Taster Session](https://forms.gle/LEPiSHFcdricQZeA6){: .btn .btn--primary .btn--large .align-center}
 
 Love powerlifting? Sign up for membership!
 
