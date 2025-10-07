@@ -42,19 +42,18 @@ Membership offers access to the following perks:
 
 ## Events for 2025-26
 
-| Event           | Date          | Time   | Location                              |
-|-----------------|---------------|--------|---------------------------------------|
-| Sports Fair     | 6 October     | 12 - 5 | University Sports Centre Hall and TTR | 
-| Freshers Fair   | 7 & 8 October | 10 - 4 | Parkers Piece                         |
-| Freshers brunch | 11 October    | TBC    | TBC                                   |
-| Novice Comp     | 1 November    | 12 - 5 | University Sports Centre TTR          |
-| Varsity Trials  | 6 December    | 8 - 5  | University Sports Centre TTR          |
-| Varsity Match   | 7 February    | 8 - 5  | University Sports Centre Hall         |
+| Event               | Date          | Time   | Location                              |
+|---------------------|---------------|--------|---------------------------------------|
+| Sports Fair         | 6 October     | 12 - 5 | University Sports Centre Hall and TTR | 
+| Freshers Fair       | 7 & 8 October | 10 - 4 | Parkers Piece                         |
+| Open taster         | 11 October    | 4 - 6  | University Sports Centre TTR          |
+| Freshers brunch     | 12 October    | 12:30  | Robinson                              |
+| Women and NB taster | 18 October    | 4 - 6  | University Sports Centre TTR          |
+| Open taster         | 25 October    | 4 - 6  | University Sports Centre TTR          |
+| Novice Comp         | 1 November    | 12 - 5 | University Sports Centre TTR          |
+| Varsity Trials      | 6 December    | 8 - 5  | University Sports Centre TTR          |
+| Varsity Match       | 7 February    | 8 - 5  | University Sports Centre Hall         |
 
-<!--| BUCS                        | 24-27 April   |         | TBC                                   |-->
-<!--| Christmas Dinner            | December      |         | TBC                                   |-->
-<!--| Women and non-binary taster | 12 October    | 4 - 6   | University Sports Centre TTR          |-->
-<!--| Open taster                 | 13 October    | 2 - 4   | University Sports Centre TTR          |-->
 
 
 
