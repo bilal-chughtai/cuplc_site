@@ -11,7 +11,7 @@ header:
   overlay_filter: "0.8"
   overlay_image: /assets/images/varsity_trials_2025/rach.png
   caption: "Varsity 2024"
-  teaser: /assets/images/varsity_trials_2025/shubz2.png
+  teaser: /assets/images/varsity_trials_2025/shubz.jpg
 
 ---
 
