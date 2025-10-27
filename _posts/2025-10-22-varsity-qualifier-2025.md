@@ -29,7 +29,7 @@ Competition fees will not be required until after the closing date.
 This competition is currently only open to University students in the East
 Midlands powerlifting region.
 
-[Sign up](https://forms.gle/cKC5CCyxGe5s65Df9){: .btn .btn--primary .btn--large .align-center}
+[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSe6ZVnsisNhlV_YRrh0JlMlEtFVJdXP3K_jnzpDTovl1M6_pg/viewform?usp=dialog){: .btn .btn--primary .btn--large .align-center}
 
 If we have space we'll open it up to everyone. Email Emma to get put on the waiting list:
 
