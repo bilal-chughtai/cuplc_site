@@ -74,8 +74,10 @@ You must wear [IPF approved kit](https://www.powerlifting.sport/fileadmin/ipf/da
 to compete. This includes
 
 * an IPF approved singlet
-* a plain tee-shirt
+* a plain, form fitting tee-shirt
 * plain deadlift socks
+* shoes
+* underwear
 
 Because this is a classic competition, you are also welcome to wear
 
