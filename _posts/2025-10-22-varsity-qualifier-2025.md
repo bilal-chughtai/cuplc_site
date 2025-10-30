@@ -39,6 +39,8 @@ emc99@cam.ac.uk
 
 Closing date for entries: 17th November 2025
 
+No weight class changes will be accepted after this date.
+
 ## Volunteer
 
 If you'd like to help out as a volunteer (e.g. spotter, loader, judge) please get in touch:
