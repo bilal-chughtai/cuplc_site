@@ -43,7 +43,7 @@ No weight class changes will be accepted after this date.
 
 ## Volunteer
 
-If you'd like to help out as a volunteer (e.g. spotter, loader, judge) please get in touch:
+If you'd like to help out as a volunteer (e.g. spotter, loader, referee) please get in touch:
 
 [Volunteer form](https://forms.gle/vAGts59UYeBd7jZZ7){: .btn .btn--primary .btn--large .align-center}
 
