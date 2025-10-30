@@ -54,3 +54,31 @@ Post code is CB3 0AS
 Free parking on site.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3080.3275941236157!2d0.0867391083547615!3d52.20963494791632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8774861d9ffdf%3A0xb73d0c1fc075bba2!2sSports%20Centre%20and%20Gym%2C%20University%20of%20Cambridge!5e0!3m2!1sen!2suk!4v1747913439056!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## British Powerlifting Membership
+
+You will need British Powerlifting membership to compete.
+
+[Sign up here](https://www.britishpowerlifting.org/buy-membership)
+
+Note: 2026 memberships are available from 1st November 2025. We will allow entry
+without 2025 membership at this stage, but you must have 2026 membership by the
+day of the competition. We recommend buying it early in November.
+
+## Kit
+
+You must wear [IPF approved kit](https://www.powerlifting.sport/fileadmin/ipf/data/rules/approved-list/Approved__List_2023-2026_V3_08_04.pdf)
+to compete. This includes
+
+* an IPF approved singlet
+* a plain tee-shirt
+* plain deadlift socks
+
+Because this is a classic competition, you are also welcome to wear
+
+* IPF approved wrist wraps
+* IPF approved knees sleeves
+* IPF approved belt
+* an IPF approved tee-shirt with your club logo 
+
+For CUPLC members we can lend you approved kit.
