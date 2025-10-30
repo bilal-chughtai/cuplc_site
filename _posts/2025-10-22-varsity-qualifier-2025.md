@@ -59,9 +59,10 @@ Free parking on site.
 
 ## British Powerlifting Membership
 
-You will need British Powerlifting membership to compete.
+You will need British Powerlifting membership to compete. It's £49 for open
+lifters and £25 for juniors (under 23).
 
-[Sign up here](https://www.britishpowerlifting.org/buy-membership)
+[Buy it here](https://www.britishpowerlifting.org/buy-membership)
 
 Note: 2026 memberships are available from 1st November 2025. We will allow entry
 without 2025 membership at this stage, but you must have 2026 membership by the
