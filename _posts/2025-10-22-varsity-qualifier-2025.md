@@ -15,7 +15,7 @@ header:
 
 ---
 
-Entries are now open for the Varsity Qualifier on Saturday 6th December 2025.
+Our Varsity Qualifier is on Saturday 6th December 2025.
 
 This is a university qualifier meet, open to the members of East Midlands
 Powerlifting at University. The meet will also form the basis of the selection
@@ -26,14 +26,7 @@ Competition fees will not be required until after the closing date.
 
 ## Sign up
 
-This competition is currently only open to University students in the East
-Midlands powerlifting region.
-
-[Sign up](https://docs.google.com/forms/d/e/1FAIpQLSe6ZVnsisNhlV_YRrh0JlMlEtFVJdXP3K_jnzpDTovl1M6_pg/viewform?usp=dialog){: .btn .btn--primary .btn--large .align-center}
-
-If we have space we'll open it up to everyone. Email Emma to get put on the waiting list:
-
-emc99@cam.ac.uk
+Entries are closed.
 
 ## Closing date
 

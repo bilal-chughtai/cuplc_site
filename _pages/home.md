@@ -15,8 +15,7 @@ freshers:
 
 qualifier:
   - image_path: assets/images/varsity_trials_2025/shubz.jpg
-    title: "Entries now open for Varsity Qualifier 2025"
-    excerpt: "Our first IPF competition of the season is now open for entries. Priority is currently to members of East Midlands Powerlifting at University."
+    title: "Varsity Qualifier 6th December 2025"
     url: "/posts/varsity-qualifier-2025/"
     btn_label: "Read more"
     btn_class: "btn--primary"
