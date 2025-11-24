@@ -21,9 +21,9 @@ Our incredible stash officer Liz has prepared some goodies for you. Feast your e
 
 The password for the Saxon site is `SAXON`
 
-[Canterbury kit page](https://www.cambridge-university-sports.co.uk/Catalogue/Sports-Clubs){: .btn .btn--primary .btn--large}
+[Canterbury kit page](https://www.tylers-sportswear.co.uk/products/cambridge-university-sports/cambridge-university-sports-clubs){: .btn .btn--primary .btn--large}
 
-The password for the Canterbury site is `cambridgeuni`
+The password for the Canterbury site is `CAMB01`
 
 ### A7
 
