@@ -6,6 +6,7 @@ President:
 
 Men's Captain:
   - name: "Isaac Wong"
+    image_path: assets/images/headshots/isaac.jpg
 
 Women's Captain:
   - name: "Jenny Lin"
