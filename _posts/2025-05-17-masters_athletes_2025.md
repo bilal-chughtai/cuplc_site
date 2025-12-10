@@ -58,7 +58,7 @@ What’s the worst that could happen? Better to have tried and failed than to wo
 Some hushed whispers from the stands as people thought he’d made another mistake with his attempt selection. 
 
 137.5&nbsp;kg turned out to be the grind of his life. New grey hairs sprouted in the 84 years it took to press out.
-But he DID press it out, giving him one of the biggest benches of the whole comp. 
+But he DID press it out, giving him one of the biggest benches of the whole comp and a new East Midlands record. 
 
 ![Nik deadlifting 200kg](/assets/images/masters/nik-deads.jpg){: .align-center}
 
