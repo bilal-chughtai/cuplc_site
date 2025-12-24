@@ -13,7 +13,7 @@ header:
 
 ### Kit pages
 
-Our incredible stash officer Liz has prepared some goodies for you. Feast your eyes on this lot.
+Our incredible stash officers Liz and V have prepared some goodies for you. Feast your eyes on this lot.
 
 [Kukri kit page](https://www.kukrisports.co.uk/teamshop/cambridgeuniversitypowerlifting/productNavListNg.action){: .btn .btn--primary .btn--large}
 
@@ -24,6 +24,8 @@ The password for the Saxon site is `SAXON`
 [Canterbury kit page](https://www.tylers-sportswear.co.uk/products/cambridge-university-sports/cambridge-university-sports-clubs){: .btn .btn--primary .btn--large}
 
 The password for the Canterbury site is `CAMB01`
+
+[Rival kit page](https://rivalkit.com/collections/cambridge-powerlifting){: .btn .btn--primary .btn--large}
 
 ### A7
 
