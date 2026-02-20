@@ -13,13 +13,6 @@ freshers:
     btn_label: "Join CUPLC"
     btn_class: "btn--primary"
 
-qualifier:
-  - image_path: assets/images/varsity_trials_2025/shubz.jpg
-    title: "Varsity Qualifier 6th December 2025"
-    url: "/posts/varsity-qualifier-2025/"
-    btn_label: "Read more"
-    btn_class: "btn--primary"
-
 header:
   show_overlay_excerpt: true
   overlay_color: "#000"
@@ -84,8 +77,6 @@ committee:
 ---
 
 {% include feature_row id="freshers" type="right" %}
-
-{% include feature_row id="qualifier" type="left" %}
 
 # Recent Blog Posts [View More](/blog/){: .btn .btn--primary .btn--small .align-right}
 
