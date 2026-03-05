@@ -25,7 +25,7 @@ This year, the format of the Varsity competition changed to allow all 12 team me
 <figure class="half">
     <img alt="jenny" src="/assets/images/varsity_2026/women/jenny.jpg">
     <img alt="asha" src="/assets/images/varsity_2026/women/asha.jpg">
-    <figcaption>Jenny and Asha about to squat.</figcaption>
+    <figcaption>Jenny and Asha.</figcaption>
 </figure>
 
 Varsity was held in Cambridge this year, and the competition was split into a morning session starting at 10am and an afternoon session starting at 2pm, with 6 lifters from both Oxford and Cambridge competing in each. Our morning lifters started the day off with a bang, finishing with a 70.15 GoodLift point lead over Oxford. Our very own Louise Pickenhan finished with 88.01GL points, the highest of the session.
