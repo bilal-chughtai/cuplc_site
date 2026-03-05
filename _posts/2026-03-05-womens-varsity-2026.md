@@ -39,32 +39,32 @@ Varsity was held in Cambridge this year, and the competition was split into a mo
 A notable performance came from Sophie Fallon, who hit a 42.5kg competition PB of 342.5kg in the u69kg class, easily qualifying her for the British University Championships in April. Ameerah Saliu also hit a huge comp PB of 337.5kg in the u69kg class, also qualifying her for BUCS. Saskia Johnson, Udoka Okonkwo and Ilona Myllyniemi all hit massive comp PBs, demonstrating months of hard work in preparation for Varsity. Ilona won the u76kg class, taking a 7.5kg lead over second place.
 
 <figure class="half">
-    <img alt="ilona" src="/assets/images/varsity_2026/women/Saskia.jpg">
-    <img alt="asha" src="/assets/images/varsity_2026/women/Emma.jpg">
+    <img alt="saskia" src="/assets/images/varsity_2026/women/Saskia.jpg">
+    <img alt="emma" src="/assets/images/varsity_2026/women/Emma.jpg">
     <figcaption>Saskia and Emma</figcaption>
 </figure>
 
 The 70.15 GL lead we had on Oxford gave the afternoon lifters a huge confidence boost going into the later session. The standards were high, with Oxford boasting two lifters with international singlets: Gwen Marsden and Rhonda Tse. However, Cambridge also brought out two of their own international lifters: Isabel Dowling, who recently competed at the World University Powerlifting Cup and World Bench Championships, and Jenny Lin, who competed previously at the Sub-Junior World and European Championships.
 
 <figure class="half">
-    <img alt="ilona" src="/assets/images/varsity_2026/women/Issy.jpg">
-    <img alt="asha" src="/assets/images/varsity_2026/women/Louise.jpg">
+    <img alt="issy" src="/assets/images/varsity_2026/women/Issy.jpg">
+    <img alt="louise" src="/assets/images/varsity_2026/women/Louise.jpg">
     <figcaption>Issy and Louise</figcaption>
 </figure>
 
 The afternoon session was close between the two teams, but Cambridge managed to maintain a steady, although modest lead, over Oxford. Our very own Viola Clark (Stash Officer) extended her regional bench press record that she had previously set at Varsity Trials not once, but twice in the u57kg Open class. She finished up with 85.5kg in the bench press, a huge 1.5x bodyweight lift. In addition to this, Viola won the u57kg weight class and earned a half-blue qualification with a 360.5kg total. Issy Dowling finished with a 440kg total, equating to 92.14 GL points, which won her the u69kg class and second-best female lifter overall. This also earned her a full blue qualification. After Varsity, Issy also competed at the British Bench Championships in Kent, earning her a spot on Team GB at the World Bench Press Championships later on this year.
 
 <figure class="half">
-    <img alt="ilona" src="/assets/images/varsity_2026/women/Ameerah.jpg">
-    <img alt="asha" src="/assets/images/varsity_2026/women/Sophie.jpg">
+    <img alt="ameerah" src="/assets/images/varsity_2026/women/Ameerah.jpg">
+    <img alt="sophie" src="/assets/images/varsity_2026/women/Sophie.jpg">
     <figcaption>Ameerah and Sophie</figcaption>
 </figure>
 
 All of our afternoon lifters qualified for BUCS. Gisele Walker added 7.5kg to her competition total from Varsity Trials and won the u84kg class with 405kg, while Jenny Lin added 12.5kg to her competition total to total 370kg in the u69kg class, which also qualified her for Junior Nationals. Emma Cohen pulled a huge 150kg deadlift for her second attempt in the u63kg class and narrowly missed out on 160kg for her third attempt, while Asha Scott hit a 72.5kg bench for her second attempt, which qualified her for the English Bench Championships in April, but narrowly missed out on 77.5kg for her third. Jenny Lin and Gisele Walker also qualified for the English Bench Press Championships with 77.5kg and 92.5kg respectively, and will both be competing alongside Asha in attempts to qualify for the Commonwealth Championships later on this year in Canada.
 
 <figure class="half">
-    <img alt="ilona" src="/assets/images/varsity_2026/women/Viola.jpeg">
-    <img alt="asha" src="/assets/images/varsity_2026/women/Udoka.jpeg">
+    <img alt="viola" src="/assets/images/varsity_2026/women/Viola.jpeg">
+    <img alt="udoka" src="/assets/images/varsity_2026/women/Udoka.jpeg">
     <figcaption>Viola and Udoka</figcaption>
 </figure>
 
