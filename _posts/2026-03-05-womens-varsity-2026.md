@@ -13,6 +13,7 @@ header:
   overlay_image: /assets/images/varsity_2026/group/group.jpg
   caption: "Varsity 2026"
   teaser: /assets/images/varsity_2026/group/jenny2.jpg
+  og_image: /assets/images/varsity_2026/group/jenny2.jpg
 
 
 ---
