@@ -20,8 +20,11 @@ Preparations are underway for our annual Novice Powerlifting Competition. Have a
 
 ![Group shot](/assets/images/novice_comp_2026/group.jpg){: .align-center}
 
-## Sign up
+## Date
 
+Provisionally Saturday 20 June, after exams. 
+
+## Sign up
 
 Sign up opens soon. We'll post a link to the sign up as soon as it's ready.
 
