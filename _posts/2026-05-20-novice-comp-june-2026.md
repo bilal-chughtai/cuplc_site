@@ -94,5 +94,8 @@ Wear your usual gym kit. You are welcome to wear wrist wraps, knee sleeves and a
 
 You must cover your lower legs for deadlifts. You can wear long knee-length socks or leggings/jogging bottoms.
 
+## QR code
 
-QR code
+Link to this page
+
+![QR code](/assets/images/novice_comp_2026/qr-code.png){: .align-center}
