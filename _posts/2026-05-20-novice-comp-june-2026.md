@@ -1,0 +1,98 @@
+---
+title: "Novice Comp June 2026"
+date: 2026-04-27
+author: Sophie May
+tags:
+  - Meets
+  - Internal competition
+header:
+  show_overlay_excerpt: true
+  overlay_color: "#000"
+  overlay_filter: "0.8"
+  overlay_image: /assets/images/varsity_2024/female/Varsity_2024_women.JPG
+  caption: "Varsity 2024"
+  teaser: /assets/images/varsity_2024/female/Varsity_2024_women.JPG
+
+
+---
+
+Preparations are underway for our annual Novice Powerlifting Competition. Have a go at testing your strength in the squat, bench and deadlift in a super fun and supportive environment.
+
+![Group shot](/assets/images/novice_comp_2026/group.jpg){: .align-center}
+
+## Sign up
+
+
+Sign up opens soon. We'll post a link to the sign up as soon as it's ready.
+
+
+## Cost
+
+Free
+
+
+## How it works
+
+You will get put into a group with around 10 other lifters. Your group will start with squats. Your opening squat should be very light, typically 10-15kg below your max.
+
+<figure class="half">
+    <img alt="jenny" src="/assets/images/novice_comp_2026/IMG_7574.jpg">
+    <img alt="jenny" src="/assets/images/novice_comp_2026/sophie.jpg">
+    <figcaption>Squats</figcaption>
+</figure>
+
+
+Everyone gets a chance to do one squat, before we go round the group for everyone's second squat. Then you get one final attempt at your squat where people often try and go for a PB. 
+
+<figure class="half">
+    <img alt="jenny" src="/assets/images/novice_comp_2026/IMG_7582.jpg">
+    <img alt="jenny" src="/assets/images/novice_comp_2026/IMG_7106.jpg">
+    <figcaption>Bench</figcaption>
+</figure>
+
+The other groups then do the same, and when they are done your group will do their bench attempts.
+
+The final lift will be deadlifts. 
+
+<figure class="half">
+    <img alt="jenny" src="/assets/images/novice_comp_2026/amira.jpg">
+    <img alt="jenny" src="/assets/images/novice_comp_2026/IMG_7267.jpg">
+    <figcaption>Deadlifts</figcaption>
+</figure>
+
+
+## Location
+
+TTR (team training room) at the University Sports Centre, Cambridge. Post code is CB3 0AS
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3080.3275941236157!2d0.0867391083547615!3d52.20963494791632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8774861d9ffdf%3A0xb73d0c1fc075bba2!2sSports%20Centre%20and%20Gym%2C%20University%20of%20Cambridge!5e0!3m2!1sen!2suk!4v1747913439056!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Timetable
+
+Example timings are
+
+| Time  | Activity                         |
+|-------|----------------------------------|
+| 12:00 | Arrival                          |
+| 12:15 | Weigh in                         |
+| 13:00 | Choose rack heights              |
+| 13:45 | Start warmups                    |
+| 14:30 | Group A squats                   |
+| 15:00 | Group B squats                   |
+| 15:30 | Group A bench                    |
+| 16:00 | Group B bench                    |
+| 16:30 | Group A deadlifts                |
+| 17:00 | Group B deadlifts                |
+| 17:30 | Awards, clean up and group photo |
+
+
+
+## What to wear
+
+
+Wear your usual gym kit. You are welcome to wear wrist wraps, knee sleeves and a belt. 
+
+You must cover your lower legs for deadlifts. You can wear long knee-length socks or leggings/jogging bottoms.
+
+
+QR code
