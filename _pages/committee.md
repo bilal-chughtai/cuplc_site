@@ -66,7 +66,7 @@ Documents governing how the club is run may be found below.
   <div class="grid-item_committee"><a href="{{ doc_path }}/CU Powerlifting Club Safety Statement 2026-27.pdf" class="btn btn--primary btn--block btn--large">Safety Statement</a></div>
   <div class="grid-item_committee"><a href="{{ doc_path }}/CU Powerlifting Club Welfare Policy 2024-25.pdf" class="btn btn--primary btn--block btn--large">Welfare Policy</a></div>
   <div class="grid-item_committee"><a href="{{ doc_path }}/CU Powerlifting Club Privacy Notice Statement 2026-27.pdf" class="btn btn--primary btn--block btn--large">Privacy Notice</a></div>
-  <div class="grid-item_committee"><a href="{{ doc_path }}/CU Powerlifting Committee Job Descriptions.pdf" class="btn btn--primary btn--block btn--large">Committee Roles</a></div>
+  <div class="grid-item_committee"><a href="{{ doc_path }}/CU Powerlifting Committee Job Descriptions 2026-27.pdf" class="btn btn--primary btn--block btn--large">Committee Roles</a></div>
 </div>
 
 &nbsp;
