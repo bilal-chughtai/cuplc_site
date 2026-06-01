@@ -12,6 +12,15 @@ freshers:
     url: "/membership/"
     btn_label: "Join CUPLC"
     btn_class: "btn--primary"
+    
+
+novice-comp:
+  - image_path: /assets/images/novice_comp_2026/group.jpg
+    title: "Entries now open for our Novice Comp 2026"
+    excerpt: "Preparations are underway for our annual Novice Powerlifting Competition. Have a go at testing your strength in the squat, bench and deadlift in a super fun and supportive environment."
+    url: "posts/novice-comp-june-2026/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
 
 header:
   show_overlay_excerpt: true
@@ -77,6 +86,8 @@ committee:
 ---
 
 {% include feature_row id="freshers" type="right" %}
+
+{% include feature_row id="novice-comp" type="left" %}
 
 # Recent Blog Posts [View More](/blog/){: .btn .btn--primary .btn--small .align-right}
 

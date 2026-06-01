@@ -22,16 +22,23 @@ Preparations are underway for our annual Novice Powerlifting Competition. Have a
 
 ## Date
 
-Provisionally Saturday 20 June, after exams. 
+Saturday 20 June, after exams. 
 
 ## Sign up
 
-Sign up opens soon. We'll post a link to the sign up as soon as it's ready.
+[Sign up](https://forms.gle/U8Xr1RALHf3eY76s9){: .btn .btn--primary .btn--large .align-center}
 
 
 ## Cost
 
 Free
+
+
+## Location
+
+TTR (team training room) at the University Sports Centre, Cambridge. Post code is CB3 0AS
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3080.3275941236157!2d0.0867391083547615!3d52.20963494791632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8774861d9ffdf%3A0xb73d0c1fc075bba2!2sSports%20Centre%20and%20Gym%2C%20University%20of%20Cambridge!5e0!3m2!1sen!2suk!4v1747913439056!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## How it works
@@ -63,12 +70,6 @@ The final lift will be deadlifts.
     <figcaption>Deadlifts</figcaption>
 </figure>
 
-
-## Location
-
-TTR (team training room) at the University Sports Centre, Cambridge. Post code is CB3 0AS
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3080.3275941236157!2d0.0867391083547615!3d52.20963494791632!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8774861d9ffdf%3A0xb73d0c1fc075bba2!2sSports%20Centre%20and%20Gym%2C%20University%20of%20Cambridge!5e0!3m2!1sen!2suk!4v1747913439056!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Timetable
 
