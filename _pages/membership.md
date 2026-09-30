@@ -48,23 +48,25 @@ Membership offers access to the following perks:
 
 Here are some provisional dates for your diary
 
-| Event               | Date          | Time    | Location                      |
-|---------------------|---------------|---------|-------------------------------|
-| Sports Fair         | 5 October     | 12 - 5  | University Sports Centre Hall | 
-| Freshers' Fair      | 6 & 7 October | 10 - 4  | Parkers Piece                 |
-| General taster      | 10 October    | 4 - 6   | University Sports Centre TTR  |
-| Women and NB taster | 17 October    | 4 - 6   | University Sports Centre TTR  |
-| SBD taster          | 24 October    | 4 - 6   | University Sports Centre TTR  |
-| Novice Comp         | 7 November    | 12 - 5  | University Sports Centre TTR  |
-| Halloween social    | 7 November    | evening | TBD                           |
-| Varsity Trials      | December      | 8 - 5   | University Sports Centre TTR  |
-| Varsity Match       | February      | 8 - 5   | Oxford                        |
+| Event               | Date          | Time          | Location                      |
+|---------------------|---------------|---------------|-------------------------------|
+| Sports Fair         | 5 October     | 12:00 - 17:00 | University Sports Centre Hall | 
+| Freshers' Fair      | 6 & 7 October | 10:00 - 16:00 | Parker's Piece                |
+| General taster      | 10 October    | 16:00 - 18:00 | University Sports Centre TTR  |
+| Women and NB taster | 17 October    | 16:00 - 18:00 | University Sports Centre TTR  |
+| SBD taster          | 24 October    | 16:00 - 18:00 | University Sports Centre TTR  |
+| Novice Comp         | 7 November    | 12:00 - 17:00 | University Sports Centre TTR  |
+| Halloween social    | 7 November    | 19:00 - 22:00 | TBD                           |
+| Varsity Qualifier   | 28 November   | 08:00 - 17:00 | University Sports Centre TTR  |
+| Varsity Match       | February      | 08:00 - 17:00 | Oxford                        |
 
 ## TTR sessions
 
 Every Saturday of Michaelmas term there will be a team training session in the TTR.
 We have several structured sessions on the dates listed below. Everyone is welcome
-at the first three taster sessions. From the 31st October, sessions will be for
+at the first three taster sessions.
+
+From the 31st October, sessions will be for
 paid up CUPLC members only. All training sessions take place on Saturday each
 week, from 4pm - 5:55pm in the team training room.
 
