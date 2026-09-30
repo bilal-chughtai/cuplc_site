@@ -22,6 +22,15 @@ novice-comp:
     btn_label: "Read more"
     btn_class: "btn--primary"
 
+qualifier:
+  - image_path: /assets/images/varsity_trials_2026_signups/larry.jpg
+    title: "Entries now open for Varsity Qualifier 2026"
+    excerpt: "Our first IPF competition of the season is now open for entries. Priority is currently to members of East Midlands Powerlifting at University."
+    url: "/posts/varsity-qualifier-2026-signups/"
+    btn_label: "Read more"
+    btn_class: "btn--primary"
+    
+
 header:
   show_overlay_excerpt: true
   overlay_color: "#000"
@@ -88,6 +97,8 @@ committee:
 {% include feature_row id="freshers" type="right" %}
 
 {% include feature_row id="novice-comp" type="left" %}
+
+{% include feature_row id="qualifier" type="right" %}
 
 # Recent Blog Posts [View More](/blog/){: .btn .btn--primary .btn--small .align-right}
 
