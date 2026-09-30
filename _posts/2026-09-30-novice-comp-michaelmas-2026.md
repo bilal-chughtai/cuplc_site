@@ -27,7 +27,7 @@ Saturday 7 November.
 
 ## Sign up
 
-[Sign up](https://forms.gle/suJKcXjePkzSa4Cj6){: .btn .btn--primary .btn--large .align-center}
+[Sign up](https://forms.gle/suJKcXjePkzSa4Cj6){: .btn .btn--primary .btn--large }
 
 
 ## Cost
