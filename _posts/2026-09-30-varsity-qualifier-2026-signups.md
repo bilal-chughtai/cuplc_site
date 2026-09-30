@@ -50,7 +50,7 @@ lifters and £25 for juniors (under 23).
 
 [Buy it here](https://www.britishpowerlifting.org/buy-membership)
 
-[//]: # (Note: Buy a 2027 membership, this will cover you for the comp and for next year.)
+Note: Buy a 2027 membership, this will cover you for the remainder of 2026 plus all of 2027.
 
 
 ## Competition standards
