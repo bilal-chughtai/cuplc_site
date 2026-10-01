@@ -17,7 +17,7 @@ header:
 Our Varsity Qualifier is on Sunday 29 November 2026.
 
 Our annual Cambridge Qualifier competition is taking place at Cambridge
-University Sports Centre from 8am-6pm on Saturday 28th November. Please fill
+University Sports Centre from 8am-6pm on Sunday 29 November. Please fill
 out the form below if you would like to compete. Entry is free for members of
 Cambridge University Powerlifting Club, and £50 for non-members. The club will
 be in contact with non-members to arrange payment and confirm entry. The form
