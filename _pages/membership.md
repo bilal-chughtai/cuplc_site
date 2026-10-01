@@ -50,13 +50,11 @@ Here are some provisional dates for your diary
 
 | Event               | Date          | Time          | Location                      |
 |---------------------|---------------|---------------|-------------------------------|
-| Sports Fair         | 5 October     | 12:00 - 17:00 | University Sports Centre Hall | 
-| Freshers' Fair      | 6 & 7 October | 10:00 - 16:00 | Parker's Piece                |
+| Sports Fair         | 5 October     | 12:00 - 17:00 | University Sports Centre Hall |
 | General taster      | 10 October    | 16:00 - 18:00 | University Sports Centre TTR  |
 | Women and NB taster | 17 October    | 16:00 - 18:00 | University Sports Centre TTR  |
-| SBD taster          | 24 October    | 16:00 - 18:00 | University Sports Centre TTR  |
+| General SBD taster  | 24 October    | 16:00 - 18:00 | University Sports Centre TTR  |
 | Novice Comp         | 8 November    | 08:00 - 16:00 | University Sports Centre TTR  |
-| Halloween social    | 7 November    | 19:00 - 22:00 | TBD                           |
 | Varsity Qualifier   | 29 November   | 08:00 - 16:00 | University Sports Centre TTR  |
 | Varsity Match       | February      | 08:00 - 17:00 | Oxford                        |
 
