@@ -14,7 +14,7 @@ header:
 
 ---
 
-Our Varsity Qualifier is on Saturday 28 November 2026.
+Our Varsity Qualifier is on Sunday 29 November 2026.
 
 Our annual Cambridge Qualifier competition is taking place at Cambridge
 University Sports Centre from 8am-6pm on Saturday 28th November. Please fill
@@ -31,7 +31,7 @@ Entries are open
 
 ## Closing date
 
-Closing date for entries: 7 November 2026.
+Closing date for entries: 8 November 2026.
 
 No weight class changes will be accepted after this date.
 

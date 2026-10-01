@@ -23,7 +23,7 @@ Our Michaelmas term novice competition is open for entries. Have a go at testing
 
 ## Date
 
-Saturday 7 November.
+Sunday 8 November.
 
 ## Sign up
 
@@ -78,17 +78,17 @@ Example timings are
 
 | Time  | Activity                         |
 |-------|----------------------------------|
-| 12:00 | Arrival                          |
-| 12:15 | Weigh in                         |
-| 13:00 | Choose rack heights              |
-| 13:45 | Start warmups                    |
-| 14:30 | Group A squats                   |
-| 15:00 | Group B squats                   |
-| 15:30 | Group A bench                    |
-| 16:00 | Group B bench                    |
-| 16:30 | Group A deadlifts                |
-| 17:00 | Group B deadlifts                |
-| 17:30 | Awards, clean up and group photo |
+| 08:00 | Arrival                          |
+| 08:15 | Weigh in                         |
+| 09:00 | Choose rack heights              |
+| 09:30 | Start warmups                    |
+| 10:00 | Group A squats                   |
+| 11:00 | Group B squats                   |
+| 11:30 | Group A bench                    |
+| 12:30 | Group B bench                    |
+| 14:00 | Group A deadlifts                |
+| 14:30 | Group B deadlifts                |
+| 15:00 | Awards, clean up and group photo |
 
 
 
