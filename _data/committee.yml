@@ -8,6 +8,7 @@ Women's Captain:
 
 Men's Captain:
   - name: "Larry Zhang"
+    image_path: assets/images/headshots/larry.jpeg
 
 Secretary:
   - name: "Sophie Fallon"
@@ -40,6 +41,7 @@ Men's and NB Welfare Officer:
 
 Social Secretary:
   - name: "Ethan Lim"
+    image_path: assets/images/headshots/ethan.jpeg
 
 Safety Officer:
   - name: "Ameerah Saliu"
