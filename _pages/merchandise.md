@@ -25,7 +25,6 @@ The password for the Saxon site is `SAXON`
 
 The password for the Canterbury site is `CAMB01`
 
-[Rival kit page](https://rivalkit.com/collections/cambridge-powerlifting){: .btn .btn--primary .btn--large}
 
 ### A7
 
