@@ -5,7 +5,7 @@ permalink: /merchandise/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/varsity_trials_2023.png
+  overlay_image: /assets/images/varsity_trials_2023.jpg
   caption: "Varsity trials 2023"
   height: 2000px
 ---
