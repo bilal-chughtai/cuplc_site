@@ -5,9 +5,9 @@ permalink: /committee/
 date: 2022-02-28
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/commitee_header.jpg
-  caption: "Sports Fair 2022"
+  overlay_filter: "0.8"
+  overlay_image: /assets/images/the-club/2026_committee.png
+  caption: "Captains 2026"
 
 ---
 <!-- TODO: put all grid instances where they belong... -->
