@@ -4,8 +4,8 @@ layout: splash
 permalink: /membership/
 header:
   overlay_filter: 0.5
-  overlay_image: "assets/images/home_cover.jpg" #maybe a group image from novice comp?
-  caption:
+  overlay_image: "assets/images/varsity_2026/group/varsity_2026_celebrations.jpg"
+  caption: Varsity 2026 celebrations
 
 
 ---
