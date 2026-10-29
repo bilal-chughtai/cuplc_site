@@ -5,8 +5,8 @@ permalink: /competitions/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/east_midlands_qualifier_2020.jpg
-  caption: "East Midlands BUCS Qualifier 2020"
+  overlay_image: assets/images/varsity_2026/group/varsity_2026_banner.jpg
+  caption: "Varsity 2026"
 ---
 
 Competition is at the heart of powerlifting. It's a chance to show off your hard work in the gym, while additionally providing a concrete external goal to work towards outside of university work. While they may seem intimidating initially, the club tries very hard to make competing as accessibly as possible, through running internal mock competitions for novices in Michaelmas term, and providing transport and encouragement to those seeking to compete officially during the year.
