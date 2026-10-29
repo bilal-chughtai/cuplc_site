@@ -35,8 +35,8 @@ header:
   show_overlay_excerpt: true
   overlay_color: "#000"
   overlay_filter: "0.8"
-  overlay_image: /assets/images/home_cover.jpg
-  caption: "Varsity 2020"
+  overlay_image: /assets/images/varsity_2026/group/group.jpg
+  caption: "Varsity 2026"
 
 logo_gallery:
   - image_path: /assets/images/logos/cam.png
